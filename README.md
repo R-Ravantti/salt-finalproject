@@ -4,7 +4,7 @@
 
 Mona T. - [GitHub](https://github.com/monatm) - [LinkedIn](https://www.linkedin.com/in/mona-talebian/)
 
-Rasmus R. - [GitHub](https://github.com/rratracer) - [LinkedIn](https://www.linkedin.com/in/rasmus-ravantti-b06067112/)
+Rasmus R. - [GitHub](https://github.com/r-ravantti) - [LinkedIn](https://www.linkedin.com/in/rasmus-ravantti-b06067112/)
 
 Simon H. - [GitHub](https://github.com/simonhong2022) - [LinkedIn](https://www.linkedin.com/in/seongbong-hong-080293121/)
 
